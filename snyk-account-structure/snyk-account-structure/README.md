@@ -1,10 +1,11 @@
 ---
+description: 이 10분 과정은 Snyk 내의 구조 계층 구조를 설명하고 조직 구조 계획을 위한 고려 사항을 제시합니다.
 cover: >-
   https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
 coverY: 0
 ---
 
-# Vision and Values
+# Snyk account structure
 
 ## Our Vision
 

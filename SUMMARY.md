@@ -2,10 +2,11 @@
 
 * [Snyk Training](README.md)
 
-## The Company
+## Snyk account structure
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Snyk account structure](snyk-account-structure/snyk-account-structure/README.md)
+  * [Plan account structure](snyk-account-structure/snyk-account-structure/plan-account-structure.md)
+* [Meet the Team!](snyk-account-structure/meet-the-team.md)
 
 ## The Formal Stuff
 
